@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c36441f0.css",
-    "main.js": "/static/js/main.1f0603a4.js",
+    "main.css": "/static/css/main.6900fe81.css",
+    "main.js": "/static/js/main.8e8020cc.js",
     "static/js/787.058a305c.chunk.js": "/static/js/787.058a305c.chunk.js",
+    "static/media/Colby-CpLt.svg": "/static/media/Colby-CpLt.c479d9f0d51f31225b62.svg",
+    "static/media/Colby-CpLt.eot": "/static/media/Colby-CpLt.b04cd639f4ca714b636d.eot",
+    "static/media/Colby-CpLt.ttf": "/static/media/Colby-CpLt.582b8e6ebf00152cdfdb.ttf",
+    "static/media/Colby-CpLt.woff": "/static/media/Colby-CpLt.e6d4bed3078a3a59e65e.woff",
+    "static/media/squeezed-webfont.woff": "/static/media/squeezed-webfont.97835febaac86cb0b21f.woff",
+    "static/media/Colby-CpLt.woff2": "/static/media/Colby-CpLt.7d5acbb238820fc9434e.woff2",
+    "static/media/squeezed-webfont.woff2": "/static/media/squeezed-webfont.83e53c85d315a0435612.woff2",
+    "static/media/bristol_squeezed_logo.png": "/static/media/bristol_squeezed_logo.f440561817986e1985e0.png",
     "static/media/logo.svg": "/static/media/logo.352c358942e3875650100a3a090ad00c.svg",
     "index.html": "/index.html",
-    "main.c36441f0.css.map": "/static/css/main.c36441f0.css.map",
-    "main.1f0603a4.js.map": "/static/js/main.1f0603a4.js.map",
+    "main.6900fe81.css.map": "/static/css/main.6900fe81.css.map",
+    "main.8e8020cc.js.map": "/static/js/main.8e8020cc.js.map",
     "787.058a305c.chunk.js.map": "/static/js/787.058a305c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c36441f0.css",
-    "static/js/main.1f0603a4.js"
+    "static/css/main.6900fe81.css",
+    "static/js/main.8e8020cc.js"
   ]
 }
